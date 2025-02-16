@@ -53,8 +53,8 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
 server.port=8090
 # App Properties
-abidi.app.jwtSecret= abidiSecretKey
-abidi.app.jwtExpirationMs= 86400000
+gassoumi.app.jwtSecret= abidiSecretKey
+gassoumi.app.jwtExpirationMs= 86400000
 ```
 ## Run Spring Boot application
 ```
